@@ -1,1 +1,1 @@
-# Note_management_app
+# Note management app
